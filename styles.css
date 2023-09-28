@@ -13,21 +13,21 @@
 }
 
 
-#green{
+.green{
 	width:100px;
 	height:100px;
 	border-radius:50%;
 	background-color:green;
 }
 
-#yellow{
+.yellow{
 	width:100px;
 	height:100px;
 	border-radius:50%;
 	background-color:yellow;
 }
 
-#red{
+.red{
 	width:100px;
 	height:100px;
 	border-radius:50%;
